@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<repertoire>
+    <nserie Numero="98720912">
+        <dateVente>2022-05-24</dateVente>
+        <dateInstallation>2022-06-12</dateInstallation>
+        <numeroContrat>2</numeroContrat>
+        <dateSignatureContrat>2021-11-01</dateSignatureContrat>
+        <dateEcheanceContrat>2023-05-07</dateEcheanceContrat>
+        <refContrat>ET3</refContrat>
+        <raisonSociale>ElioTrolain</raisonSociale>
+    </nserie>
+</repertoire>
